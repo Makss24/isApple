@@ -5,3 +5,5 @@ function isApple() {
 		$('head').append('<link rel="stylesheet" type="text/css" href="css/apple.css" media="screen and (max-device-width: 960px)" />');
 }
 isApple();
+
+// source: http://stackoverflow.com/questions/9038625/detect-if-device-is-ios
